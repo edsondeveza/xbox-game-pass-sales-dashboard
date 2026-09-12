@@ -403,4 +403,4 @@ Na visão anual original:
 
 ## Contexto acadêmico
 
-Projeto desenvolvido como desafio do bootcamp **Santander — Excel com IA**, oferecido pela **DIO**, com foco em organização de dados, automação sem macros e experiência do usuário no Excel.
+Projeto desenvolvido como desafio do bootcamp Santander — Excel com IA, oferecido pela DIO, aplicado à construção de um dashboard de análise de assinaturas do Xbox Game Pass. O foco esteve em organização de dados (tabela estruturada e Tabela Dinâmica mestre), automação de indicadores sem uso de macros (fórmulas com SUMIFS, tratamento de ausência de dados e comparação entre períodos) e experiência do usuário no Excel, com segmentações, filtros de período e identidade visual baseada na marca Xbox.
